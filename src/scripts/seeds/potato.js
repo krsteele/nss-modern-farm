@@ -1,4 +1,4 @@
-const createPotato = () => {
+export const createPotato = () => {
     return {
         type: "potato",
         height: 32,

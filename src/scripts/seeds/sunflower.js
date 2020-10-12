@@ -1,3 +1,4 @@
+// function to return a sunflower object
 export const createSunflower = () => {
     return {
         type: "sunflower",
