@@ -1,3 +1,4 @@
+// function to return a corn array with two corn objects
 export const createCorn = () => {
     return [{
         type: "corn",

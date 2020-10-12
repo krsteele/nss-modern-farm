@@ -1,20 +1,0 @@
-Script started on Mon Oct 12 08:55:53 2020
-[1m[7m%[27m[1m[0m                                                                                                                                                                                  ]2;kristensteele@kristens-mbp: ~/workspace/modern-farm/src]1;..dern-farm/src[0m[27m[24m[J[39m[0m[49m[40m[39m kristensteele@kristens-mbp [44m[30m[30m ~/workspace/modern-farm/src [43m[34m[30m  main ● [49m[33m[39m [K[?1h=[?2004hsscs  ccd scripts[?1l>[?2004l
-]2;cd scripts]1;cd[1m[7m%[27m[1m[0m                                                                                                                                                                                  ]2;kristensteele@kristens-mbp: ~/workspace/modern-farm/src/scripts]1;..m/src/scripts[0m[27m[24m[J[39m[0m[49m[40m[39m kristensteele@kristens-mbp [44m[30m[30m ~/workspace/modern-farm/src/scripts [43m[34m[30m  main ● [49m[33m[39m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;lsmain.js plan.js [1m[36mseeds[39;49m[0m
-[1m[7m%[27m[1m[0m                                                                                                                                                                                  ]2;kristensteele@kristens-mbp: ~/workspace/modern-farm/src/scripts]1;..m/src/scripts[0m[27m[24m[J[39m[0m[49m[40m[39m kristensteele@kristens-mbp [44m[30m[30m ~/workspace/modern-farm/src/scripts [43m[34m[30m  main ● [49m[33m[39m [K[?1h=[?2004httouch field.js[?1l>[?2004l
-]2;touch field.js]1;touch[1m[7m%[27m[1m[0m                                                                                                                                                                                  ]2;kristensteele@kristens-mbp: ~/workspace/modern-farm/src/scripts]1;..m/src/scripts[0m[27m[24m[J[39m[0m[49m[40m[39m kristensteele@kristens-mbp [44m[30m[30m ~/workspace/modern-farm/src/scripts [43m[34m[30m  main ● [49m[33m[39m [K[?1h=[?2004hggs[?1l>[?2004l
-]2;git status]1;gsOn branch main
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	[31mmodified:   main.js[m
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	[31mfield.js[m
-	[31mseeds/[m
-	[31m../typescript[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-[1m[7m%[27m[1m[0m                                                                                                                                                                                  ]2;kristensteele@kristens-mbp: ~/workspace/modern-farm/src/scripts]1;..m/src/scripts[0m[27m[24m[J[39m[0m[49m[40m[39m kristensteele@kristens-mbp [44m[30m[30m ~/workspace/modern-farm/src/scripts [43m[34m[30m  main ● [49m[33m[39m [K[?1h=[?2004h
