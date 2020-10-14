@@ -17,4 +17,3 @@ export const usePlants = () => {
     return plantsInField.slice()
 }
 
-console.log(plantsInField)
