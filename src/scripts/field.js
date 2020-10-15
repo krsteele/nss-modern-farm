@@ -9,7 +9,7 @@ export const addPlant = (seedObj) => {
     } else {
     plantsInField.push(seedObj)
     }
-    console.log(plantsInField)
+    // console.log(plantsInField)
     return plantsInField
 }
 

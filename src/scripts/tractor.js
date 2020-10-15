@@ -9,7 +9,7 @@ import { createWheat } from "./seeds/wheat.js";
 export const plantSeeds = (planArr) => {
     for (const rowArr of planArr) {
         for (const cropString of rowArr) {
-            debugger
+            // debugger
             switch (cropString) {
                 case "Asparagus":
                     const asparagusSeed = createAsparagus()
