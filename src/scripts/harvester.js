@@ -5,11 +5,13 @@ export const harvestPlants = (plantsArr) => {
     let harvestArr = []
     // iterate through the plantsInField array and get the value of the output property of each object
     for (const plantObj of plantsArr) {
-        
+        debugger
         var x = plantObj.output
         var y = x / 2
+        console.log(x)
+        console.log(y)
         // if corn, add half the number of corn * corn.output
-        if (plantObj.type === "corn") {
+        if (plantObj.type === "Corn") {
             for (let i = 0; i < y; i++) {
                 harvestArr.push(plantObj)
             }
