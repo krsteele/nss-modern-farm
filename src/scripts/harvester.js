@@ -1,6 +1,10 @@
+import { usePlants } from "./field.js"
+ 
 // define and export a harvestPlants function
 // must accept the plantsInField array as input
-export const harvestPlants = (plantsArr) => {
+export const harvestPlants = () => {
+    const plantsArr = usePlants()
+    
     // defining the return array
     let harvestArr = []
     // iterate through the plantsInField array and get the value of the output property of each object
@@ -15,7 +19,7 @@ export const harvestPlants = (plantsArr) => {
             for (let i = 0; i < y; i++) {
                 harvestArr.push(plantObj)
             }
-        // for all other plants add that plant times the output value   
+            // for all other plants add that plant times the output value   
         } else {
             for (let j = 0; j < x; j++) {
                 harvestArr.push(plantObj)

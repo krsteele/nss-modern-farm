@@ -46,7 +46,6 @@ console.log(yearlyPlan)
 
 plantSeeds(yearlyPlan)
 
-const plantsToHarvest = usePlants()
 
-const harvestTest = harvestPlants(plantsToHarvest)
+const harvestTest = harvestPlants()
 console.log(harvestTest)
