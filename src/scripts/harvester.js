@@ -5,7 +5,7 @@ export const harvestPlants = (plantsArr) => {
     let harvestArr = []
     // iterate through the plantsInField array and get the value of the output property of each object
     for (const plantObj of plantsArr) {
-        debugger
+        // debugger
         var x = plantObj.output
         var y = x / 2
         console.log(x)
