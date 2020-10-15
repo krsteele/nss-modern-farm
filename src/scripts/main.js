@@ -8,6 +8,7 @@ import { createSoybean } from "./seeds/soybean.js"
 import { addPlant, usePlants } from "./field.js"
 import { plantSeeds } from "./tractor.js"
 import { harvestPlants } from "./harvester.js"
+import { Catalog } from "./catalog.js"
 
 console.log("Welcome to the main module")
 
@@ -47,5 +48,6 @@ console.log(yearlyPlan)
 plantSeeds(yearlyPlan)
 
 
-const harvestTest = harvestPlants()
-console.log(harvestTest)
+const harvestedFoodArr = harvestPlants()
+
+Catalog(harvestedFoodArr)
